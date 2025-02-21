@@ -1,5 +1,5 @@
 # Error Correction Codes in VHDL
-This repository contains the VHDL implementations of various error-correction codes, including Hamming Code, Hadamard Code, and Reed-Solomon Code, developed as part of my project. The project is focused on designing, simulating, and performing hardware implementations of these codes on FPGA boards to improve data integrity and error detection/correction in communication systems.
+This repository contains the VHDL implementations of various error-correction codes, including Hamming Code, Hadamard Code,Reed-Solomon Code and LDPC Code, developed as part of my project. The project is focused on designing, simulating, and performing hardware implementations of these codes on FPGA boards to improve data integrity and error detection/correction in communication systems.
 
 # Project Overview
 Error-correction codes are essential in digital communication to ensure the reliability of data transmitted over noisy channels. This project involves the design and hardware implementation of multiple error-correction schemes using VHDL. Each code provides different levels of error correction and detection, making them suitable for various applications.
